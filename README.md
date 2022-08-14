@@ -1,13 +1,10 @@
-Hey there, I'm Megan 👋
+<p align="center">Hey there, I'm Megan 👋</p>
 
-- Software Engineer
-- Projects:
-  - [Achilles](https://www.achilles.run)
-  - [Melo](https://www.melo-app.org)
+<p align="center">Working on 🛠️</p>
+<p align="center">
+  <a href="https://www.achilles.run">Achilles</a> •
+  <a href="https://www.melo-app.org">Melo</a>
+</p>
 
-- Find me:
-  - [Twitter 🐦](https://twitter.com/codeyams)
-  - [Website 🍠](https://www.megancooper.com/)
-
-Source: https://github.com/anuraghazra/github-readme-stats
+<sub><samp><a href="https://www.megancooper.com/">website 🍠</a> ~ <a href="https://twitter.com/codeyams">Twitter 🐦</a></samp></sub>
 
