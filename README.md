@@ -3,7 +3,7 @@
 <p align="center">Working on 🛠️</p>
 <p align="center">
   <a href="https://www.cragsense.com">CragSense</a> •
-  <a href="https://www.melo-app.org">Melo</a> •
+  <a href="https://www.chive.dev">Chive</a> •
   <a href="https://www.achilles.run">Achilles</a>
 </p>
 
